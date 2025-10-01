@@ -17,13 +17,13 @@ export const Overview = ({ contactmodal, setContactModal }) => {
           </h1>
           <p className="max-w-2xl md:text-base text-sm text-black font-body font-light">
           <span className="font-body font-bold text-xs md:text-lg ">
-        Godrej Plots Doddaballapur offers premium villa plots in North Bangalore, ranging from approximately 1200 to 4000 sq. ft., with a total of around 500 plots across 50 acres.  </span>
+       Puravankara plots in Rajanukunte are located on Doddaballapur Road, North Bangalore, near the Kempegowda International Airport and are part of a gated, premium residential community.  </span>
           <br />
           
             <span>
-            <p> The development features a gated community with luxury amenities like a clubhouse, swimming pool, and fitness center, as well as sustainable elements such as rainwater harvesting.  </p>
+            <p>  The project offers plots ranging from 1,000 to 2,500 sq. ft. with prices starting from approximately ₹75 Lakhs. </p>
             <br/>
-            <p> The location provides convenient access to the Kempegowda International Airport and is set to benefit from future infrastructure projects like the Peripheral Ring Road  </p>
+            <p>  The development emphasizes a balanced blend of luxury and affordability, with plans for amenities, structured pricing, and strong long-term investment potential due to the area's rapid development. </p>
 
             
 
