@@ -113,7 +113,7 @@ const ContactForm = ({ contactmodal, setContactModal, setSiteVisitModal }) => {
       phoneNumber: number.trim(),
       campaign: true,
       projectId: "",
-      projectName: "Purvankara Rajanukunte",
+      projectName: "Puravankara Rajanukunte",
       currentAgent: "",
       utmDetails: {
         source: utmParams.utmSource || null,
